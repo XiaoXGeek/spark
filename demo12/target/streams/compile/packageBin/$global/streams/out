@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging C:\Users\XiaoX\Desktop\spark\demo12\target\scala-2.11\demo12_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com\xiaox\SimpleApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\XiaoX\Desktop\spark\demo12\target\scala-2.11\classes\com\xiaox\SimpleApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	com\xiaox\SimpleApp$.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\XiaoX\Desktop\spark\demo12\target\scala-2.11\classes\com\xiaox\SimpleApp$.class[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\XiaoX\Desktop\spark\demo12\target\scala-2.11\classes\com[0m
+[0m[[0mdebug[0m] [0m	com\xiaox\SimpleApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\XiaoX\Desktop\spark\demo12\target\scala-2.11\classes\com\xiaox\SimpleApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	com\xiaox[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\XiaoX\Desktop\spark\demo12\target\scala-2.11\classes\com\xiaox[0m
+[0m[[0mdebug[0m] [0m	com\xiaox\SimpleApp.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\XiaoX\Desktop\spark\demo12\target\scala-2.11\classes\com\xiaox\SimpleApp.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

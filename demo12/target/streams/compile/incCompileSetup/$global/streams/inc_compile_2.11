@@ -1,0 +1,129 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\XiaoX\Desktop\spark\demo12\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+4 items
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> C:\Users\XiaoX\Desktop\spark\demo12\target\scala-2.11\classes\com\xiaox\SimpleApp$$anonfun$1.class
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> C:\Users\XiaoX\Desktop\spark\demo12\target\scala-2.11\classes\com\xiaox\SimpleApp$$anonfun$2.class
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> C:\Users\XiaoX\Desktop\spark\demo12\target\scala-2.11\classes\com\xiaox\SimpleApp$.class
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> C:\Users\XiaoX\Desktop\spark\demo12\target\scala-2.11\classes\com\xiaox\SimpleApp.class
+binary dependencies:
+3 items
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> C:\Users\XiaoX\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.1.jar
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> C:\Users\XiaoX\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> C:\code\Java\jdk1.8.0_11\jre\lib\rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+4 items
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> com.xiaox.SimpleApp
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> com.xiaox.SimpleApp$
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> com.xiaox.SimpleApp$$anonfun$1
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> com.xiaox.SimpleApp$$anonfun$2
+used names:
+41 items
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> <init>
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> <repeated>
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> Any
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> AnyRef
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> Array
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> Boolean
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> CharSequence
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> Function1
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> Int
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> Long
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> Object
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> Predef
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> RDD
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> SimpleApp
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> SparkConf
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> SparkContext
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> String
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> StringContext
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> Unit
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> apache
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> cache
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> com
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> conf
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> contains
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> count
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> filter
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> line
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> logData
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> logFile
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> numAs
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> numBs
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> org
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> println
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> s
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> sc
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> scala
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> setAppName
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> spark
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> stop
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> textFile
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> xiaox
+product stamps:
+4 items
+C:\Users\XiaoX\Desktop\spark\demo12\target\scala-2.11\classes\com\xiaox\SimpleApp$$anonfun$1.class -> lastModified(1496321656718)
+C:\Users\XiaoX\Desktop\spark\demo12\target\scala-2.11\classes\com\xiaox\SimpleApp$$anonfun$2.class -> lastModified(1496321656722)
+C:\Users\XiaoX\Desktop\spark\demo12\target\scala-2.11\classes\com\xiaox\SimpleApp$.class -> lastModified(1496321656708)
+C:\Users\XiaoX\Desktop\spark\demo12\target\scala-2.11\classes\com\xiaox\SimpleApp.class -> lastModified(1496321656623)
+source stamps:
+1 items
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> hash(c33a6a0246d5fd066a64a649d790484279ff778e)
+binary stamps:
+3 items
+C:\code\Java\jdk1.8.0_11\jre\lib\rt.jar -> lastModified(1481619012161)
+C:\Users\XiaoX\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.1.jar -> lastModified(1493167440000)
+C:\Users\XiaoX\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+C:\code\Java\jdk1.8.0_11\jre\lib\rt.jar -> java.lang.Object
+C:\Users\XiaoX\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.1.jar -> org.apache.spark.SparkConf
+C:\Users\XiaoX\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.Array
+internal apis:
+1 items
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwZ6WcRAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwzRU0v3QABm5vdGlmeXNxAH4ADFy70FR0AAR3YWl0c3EAfgAMM6fyu3QADSRhc0luc3RhbmNlT2ZzcQB+AAwP1mhedAAGZXF1YWxzc3EAfgAM43OAbXQADGFzSW5zdGFuY2VPZnNxAH4ADF6igWV0AAxzeW5jaHJvbml6ZWRzcQB+AAx+K5eCdAANJGlzSW5zdGFuY2VPZnNxAH4ADHbPN/d0AARtYWluc3EAfgAMYkakTHQACW5vdGlmeUFsbHNxAH4ADDsQi290AAxpc0luc3RhbmNlT2ZzcQB+AAyz4+sqdAACPT1zcQB+AAx9a1QjdAAFY2xvbmVzcQB+AAy8rtSTdAAJU2ltcGxlQXBwc3EAfgAM2e1Tt3QACHRvU3RyaW5nc3EAfgAMHzKIvnQAAiE9c3EAfgAMa02Gp3QACGdldENsYXNzc3EAfgAMvVBB/XQAAm5lc3EAfgAMpJ0EPHQAAmVxc3EAfgAM58Q2LnQAAiMjc3EAfgAMJ1V78XQACGZpbmFsaXplc3EAfgAMP6J2fnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAE2NvbS54aWFveC5TaW1wbGVBcHB1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXXNxAH4AbHQABUFycmF5cQB+AHJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbHQABlN0cmluZ3NxAH4AcHNxAH4Ac3VxAH4AdgAAAANzcQB+AHh0AARqYXZhc3EAfgB4dAAEbGFuZ3EAfgB9c3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4AkQAAAAJzcQB+AGx0AAZPYmplY3RxAH4AlXNxAH4AbHQAA0FueXEAfgBydXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAJY29tLnhpYW94c3EAfgCmdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcY7hteHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD1DOlxVc2Vyc1xYaWFvWFxEZXNrdG9wXHNwYXJrXGRlbW8xMlx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUwzpqAkbV/QZqZKZJ15BIQnn/d44=
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\XiaoX\Desktop\spark\demo12\src\main\scala\com\xiaox\SimpleApp.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGN7Q4p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPUM6XFVzZXJzXFhpYW9YXERlc2t0b3Bcc3BhcmtcZGVtbzEyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGO4bXh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPUM6XFVzZXJzXFhpYW9YXERlc2t0b3Bcc3BhcmtcZGVtbzEyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
